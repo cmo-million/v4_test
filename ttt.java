@@ -4,5 +4,7 @@ public class ttt {
         System.out.println("hello git2");
         System.out.println("hello git3");
         System.out.println("hello dev");
+        System.out.println("hello master");
+
     }
 }
