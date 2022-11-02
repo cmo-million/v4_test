@@ -8,5 +8,6 @@ public class ttt {
         System.out.println("hello devtest2");
         System.out.println("hello test3");
         System.out.println("pull test");
+        System.out.println("github 更新");
     }
 }
