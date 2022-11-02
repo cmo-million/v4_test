@@ -7,5 +7,6 @@ public class ttt {
         System.out.println("hello master");
         System.out.println("hello devtest2");
         System.out.println("hello test3");
+        System.out.println("pull test");
     }
 }
